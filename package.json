@@ -1,0 +1,16 @@
+{
+  "name": "@hkube/types",
+  "version": "1.0.0",
+  "description": "type definitions for Hkube",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node generate.js"
+  },
+  "author": "Hkube",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "fs-extra": "^9.0.1",
+    "quicktype-core": "^6.0.69"
+  }
+}
