@@ -11,6 +11,6 @@
   "dependencies": {
     "axios": "^0.21.0",
     "fs-extra": "^9.0.1",
-    "quicktype-core": "^6.0.69"
+    "quicktype-core": "^6.1.12"
   }
 }
